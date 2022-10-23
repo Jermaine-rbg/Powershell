@@ -6,7 +6,8 @@ The exercises in this document are intended to give you a solid foundation in ho
 
 If you have 30 minutes now, let’s try it.
 
-Installing PowerShell
+## Installing PowerShell
+
 First you need to set up your computer working environment if you have not done so. Choose the platform below and follow the instructions. At the end of this exercise, you should be able to launch the PowerShell session.
 
 Get PowerShell by installing package
