@@ -20,7 +20,8 @@ For this tutorial, you do not need to install PowerShell if you are running on W
 
 Alternatively you can get the PowerShell by building it
 
-Getting Started with PowerShell
+## Getting Started with PowerShell
+
 PowerShell commands follow a Verb-Noun semantic with a set of parameters. It's easy to learn and use PowerShell. For example, Get-Process will display all the running processes on your system. Let's walk through with a few examples from the PowerShell Beginner's Guide.
 
 Now you have learned the basics of PowerShell. Please continue reading if you want to do some development work in PowerShell.
