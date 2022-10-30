@@ -26,7 +26,7 @@ PowerShell commands follow a Verb-Noun semantic with a set of parameters. It's e
 
 Now you have learned the basics of PowerShell. Please continue reading if you want to do some development work in PowerShell.
 
-# PowerShell Editor
+## PowerShell Editor
 
 In this section, you will create a PowerShell script using a text editor. You can use your favorite editor to write scripts. We use Visual Studio Code (VS Code) which works on Windows, Linux, and macOS. Click on the following link to create your first PowerShell script.
 
