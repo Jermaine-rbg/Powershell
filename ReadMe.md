@@ -11,7 +11,8 @@ If you have 30 minutes now, let’s try it.
 First you need to set up your computer working environment if you have not done so. Choose the platform below and follow the instructions. At the end of this exercise, you should be able to launch the PowerShell session.
 
 Get PowerShell by installing package
-![PowerShell On Linux](https://learn.microsoft.com/en-us/powershell/scripting/install/installing-powershell-on-linux?view=powershell-7.2)
+
+[PowerShell On Linux](https://learn.microsoft.com/en-us/powershell/scripting/install/installing-powershell-on-linux?view=powershell-7.2)
 PowerShell on macOS
 PowerShell on Windows
 For this tutorial, you do not need to install PowerShell if you are running on Windows. You can launch PowerShell console by pressing Windows key, typing PowerShell, and clicking on Windows PowerShell. However if you want to try out the latest PowerShell, follow the PowerShell on Windows.
