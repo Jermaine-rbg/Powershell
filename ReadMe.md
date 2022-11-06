@@ -39,7 +39,7 @@ PowerShell Command-line Debugging
 PowerShell Testing
 We recommend using Pester testing tool which is initiated by the PowerShell Community for writing test cases. To use the tool please read Pester Guides and Writing Pester Tests Guidelines.
 
-Map Book for Experienced Bash users
+## Map Book for Experienced Bash users
 The table below lists the usage of some basic commands to help you get started on PowerShell faster. Note that all bash commands should continue working on PowerShell session.
 
 Bash	PowerShell	Description
